@@ -36,4 +36,4 @@ jobs:
         with:
           project: "ben-nest-on-den-36"
           entrypoint: "src/main.ts"
-          root: ""
+          root: "."
